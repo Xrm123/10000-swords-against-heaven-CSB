@@ -1,0 +1,54 @@
+{
+  "id": "10000-swords-against-heaven",
+  "title": "10000 Swords Against Heaven",
+  "version": "0.5",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Xrm",
+      "discord": "Xrm",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Actors",
+      "label": "Actors",
+      "path": "packs/Actors",
+      "type": "Actor",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Items",
+      "label": "Items",
+      "path": "packs/Items",
+      "type": "Item",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Macro",
+      "label": "Macro",
+      "path": "packs/Macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "<p>This is unfinished currently. </p><p>Skill rolls call the macro in the compendium. </p><p>This DOES work with dice so nice. </p><p></p><p>i haven't decided how i want to attacks or damage yet, do that by hand!</p>"
+}

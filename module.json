@@ -2,6 +2,8 @@
   "id": "10000-swords-against-heaven",
   "title": "10000 Swords Against Heaven",
   "version": "0.5",
+  "manifest": "https://github.com/Xrm123/10000-swords-against-heaven-CSB/releases/latest/download/module.json",
+  "download": "https://github.com/Xrm123/10000-swords-against-heaven-CSB/download/1.0.0/module.zip"
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -50,5 +52,6 @@
       }
     }
   ],
-  "description": "<p>This is unfinished currently. </p><p>Skill rolls call the macro in the compendium. </p><p>This DOES work with dice so nice. </p><p></p><p>i haven't decided how i want to attacks or damage yet, do that by hand!</p>"
+  "description": "<p>This is unfinished currently.</p><p>Skill rolls call the macro in the compendium.</p><p>This DOES work with dice so nice.</p><p></p><p>i haven't decided how i want to attacks or damage yet, do that by hand!</p>",
+  "url": "https://github.com/Xrm123/10000-swords-against-heaven-CSB"
 }
